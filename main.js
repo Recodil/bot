@@ -456,4 +456,4 @@ client.on('messageCreate', async (message) => {
 client.once('ready', () => {
     console.log(`✅ Bot logged in as ${client.user.tag}`);
 });
-client.login('NUH UH');
+client.login('MTM5MDI3NTgyODk0Nzg4MjA0NQ.GzrN-H.yDlat9AWyKGECkVe9g7jqCtAzaY-n3iCtQg1lk');
